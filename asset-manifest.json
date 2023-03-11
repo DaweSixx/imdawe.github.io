@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/imdawe.github.io/static/css/main.851e2968.css",
-    "main.js": "/imdawe.github.io/static/js/main.c169f9fc.js",
+    "main.css": "/imdawe.github.io/static/css/main.a3ac689d.css",
+    "main.js": "/imdawe.github.io/static/js/main.136d9181.js",
     "static/media/background.jpg": "/imdawe.github.io/static/media/background.5857e449c47d1086b009.jpg",
     "static/media/web1.png": "/imdawe.github.io/static/media/web1.ffbd8e5a2d8dfac9fbd7.png",
     "static/media/me.jpg": "/imdawe.github.io/static/media/me.028d1c94ed9030b34b80.jpg",
     "static/media/web2.png": "/imdawe.github.io/static/media/web2.1da57d0221e4acfcf624.png",
     "index.html": "/imdawe.github.io/index.html",
-    "main.851e2968.css.map": "/imdawe.github.io/static/css/main.851e2968.css.map",
-    "main.c169f9fc.js.map": "/imdawe.github.io/static/js/main.c169f9fc.js.map"
+    "main.a3ac689d.css.map": "/imdawe.github.io/static/css/main.a3ac689d.css.map",
+    "main.136d9181.js.map": "/imdawe.github.io/static/js/main.136d9181.js.map"
   },
   "entrypoints": [
-    "static/css/main.851e2968.css",
-    "static/js/main.c169f9fc.js"
+    "static/css/main.a3ac689d.css",
+    "static/js/main.136d9181.js"
   ]
 }
