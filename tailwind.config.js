@@ -9,11 +9,7 @@ module.exports = {
       xl: "1450px",
       s: "400px",
     },
-    extend: {
-      backgroundImage: {
-        me: "url('C:\\Users\\USER\\Downloads\\Pro\\React\\my-project\\src\\images\\background.jpg')",
-      },
-    },
+    extend: {},
   },
   plugins: [],
 };
